@@ -123,7 +123,7 @@ const educationInfo = {
       schoolName: "KL University",
       logo: require("./assets/images/KLUniversity.png"),
       subHeader: "Bachelor of Technology in Electronics and Communication engineering",
-      duration: "September 2013 - April 2017",
+      duration: "September 2010 - April 2013",
       desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
       descBullets: ["Academic Merit Award being a Top student"]
     }
